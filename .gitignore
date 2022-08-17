@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.txt
+/Flicker8k_Dataset/
+/__MACOSX/
