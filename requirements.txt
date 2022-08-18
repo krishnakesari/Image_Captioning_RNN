@@ -2,3 +2,4 @@ tensorflow
 pandas == 1.4.3
 numpy == 1.23.2
 matplotlib == 3.5.3
+tqdm
